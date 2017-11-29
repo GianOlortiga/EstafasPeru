@@ -1,0 +1,3 @@
+<section id="mensaje">
+		<p>- En vista de las diferentes modalidades de Estafas de Empleos que se vienen realizando en nuestro país y que a pesar de ello estas empresas siguen operando (incluso algunas legalmente), he decidido crear este sitio web para que ustedes herman@s puedan dar su voz y denunciar públicamente a estas "empresas" que se aprovechan de la necesidad de la gente que busca y necesita un empleo. Aquí podrás dejar tu mensaje, dejar las pruebas que tengas y con tu voz dar a conocer estas estafas. Estamos en la era de la informática y todo lo que publiquemos quedará en internet, talvez con esto se pueda frenar de una vez por todas a esta ola de estafas.</p>
+	</section>
